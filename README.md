@@ -1,9 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/GalacticNetwork/Galactic/main/static/newlogo.png" height="200">
 </p>
 
-<h1 align="center">Galactic</h1>
-
-<p align="center">A Site made by Galactic Network, and uses old ultraviolet<br><br></p>
+<p align="center">A Site made by Galactic Network, with pretty fast speeds.<br><br></p>
 
 ## Features
 - CAPTCHA support along with hCAPTCHA support
