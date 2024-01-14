@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/GalacticNetwork/Galactic/main/static/newlogo.png" height="200">
+<p align="center"><img src="https://raw.githubusercontent.com/GalacticNetwork/Galactic/main/static/astro.png" height="200">
 </p>
 
 <p align="center">A Site made by Galactic Network, with pretty fast speeds.<br><br></p>
@@ -35,6 +35,7 @@
 # Credits
 - https://github.com/titaniumnetwork-dev Ultraviolet
 - https://github.com/slqntdevss Help with settings
+- [Spaced](https://github.com/spacedoutcode) helped with css
 ## Deployment
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/GalacticNetwork/Galactic"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
 <a target="_blank" href="https://replit.com/github/GalacticNetwork/Galactic"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>

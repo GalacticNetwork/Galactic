@@ -1,16 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 body {
-  background: #242424;
+  background: #2B1C3D;
 	color: white;
   font-family: 'Montserrat', sans-serif;
   overflow: hidden;
+  margin: 0;
 }
 form input {
-    background: none;
+    background: #351E4F;
     font-family: inherit;
     padding: 0px 17px;
     height: 48px;
-    border: 1px solid rgb(255, 255, 255, .2);
+    border: 1px solid #68419b;
     color: var(--text-color);
     border-radius: 3px;
     outline: none;
@@ -24,8 +25,7 @@ form input {
       color: white;
     }
 form input:focus {
-    border: 1px solid rgba(253, 253, 253, 0.514);
-    border-radius: 6px;
+    border: 1px solid #7D29E8;
     animation: fadeInAnimation ease-in-out 0.3s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
@@ -46,3 +46,4 @@ form input:focus {
 	color: black;
 	cursor: pointer;
 	background: white;
+}
