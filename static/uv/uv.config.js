@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/astrosw/',
-    bare: 'https://clearview.sushiprosi.com/bare/',
+    bare: 'https://bare2.mysticmath.workers.dev',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/uv/uv.handler.js',
