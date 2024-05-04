@@ -32,6 +32,8 @@
 - Caracal.js (Creator of Ultraviolet)
 - Divide (Creator of TOMP)
 
+# view new code[here](https://github.com/galacticnetwork/astro-static) 
+
 # Credits
 - https://github.com/titaniumnetwork-dev Ultraviolet
 - https://github.com/slqntdevss Help with settings
