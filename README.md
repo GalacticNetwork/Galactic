@@ -2,6 +2,7 @@
 </p>
 
 <p align="center">A Site made by Galactic Network, with pretty fast speeds.<br><br></p>
+<h1><a href="//github.com/galacticnetwork/astro">THIS IS ARCHIVED, USE THE NEW EFFICIENT ONE.</a></h1>
 
 ## Features
 - CAPTCHA support along with hCAPTCHA support
